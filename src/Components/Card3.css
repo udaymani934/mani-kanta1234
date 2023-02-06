@@ -1,0 +1,238 @@
+.t33{
+    width: 1185px;
+height: 77px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 77px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* TitleDegods */
+
+background: linear-gradient(90deg, #000000 13%, #CBCBCB 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Card12{
+    border: 1.5px solid rgba(170, 170, 170, 1);
+    ;
+    border-radius: 15px;
+}
+.Card13{
+ margin: 0 0 0 150px;
+}
+.t34{
+    border: 2px solid white;
+    width: 200px;
+height: 26px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t35{
+    width: 200px;
+height: 28px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+letter-spacing: -1px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.t36{
+    width: 205px;
+height: 26px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 26px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.t37{
+    width: 215px;
+height: 28px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+letter-spacing: -1px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.t38{
+    width: 776px;
+height: 51px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 51px;
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 40px 0 0 200px;
+}
+.t39{
+    width: 776px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0 0 0 185px;
+}
+.btn7{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 147px;
+height: 46px;
+
+background: #000000;
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+/* width: 47px;
+height: 24px; */
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 10px 0 0 500px;
+}
+.ll9{
+    background-color: rgb(50, 5, 69);
+    position: absolute;
+    width: 1263.38px;
+    height: 112px;
+    /* left: -18.01px; */
+    /* top: 10px;   */
+    
+    background: linear-gradient();
+    transform:rotate(-1);
+}
+.t45{
+    background:rgb(50, 5, 69);
+    width: 1263.38px;
+    height: 45px;
+    margin-top:15px;
+    color: rgb(50, 5, 69);
+}

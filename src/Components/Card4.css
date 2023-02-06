@@ -1,0 +1,114 @@
+.Card16{
+    background-color: rgb(50, 5, 69);
+    margin: -10px 0 0 0;
+    width:1263px ;
+}
+.t50{
+    width: 1240px;
+height: 77px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 77px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -1px;
+text-transform: uppercase;
+    background: linear-gradient(90deg, #FFFFFF 40.73%, #9164FB 119.98%);
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent; */
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.t51{
+    width: 1140px;
+height: 24px;
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #AAAAAA;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0 0 0 30px;
+}
+.btn9{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 200px;
+height: 56px;
+
+/* Solswipe */
+
+background: linear-gradient(92.34deg, #9164FB 6.56%, #D0B450 127.54%);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+/* width: 108px;
+height: 24px; */
+
+font-family: 'Noto Serif Thai';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0 0 0 500px;
+}
+.ll10{
+    background-color: white;
+    position: absolute;
+    width: 1263.38px;
+    height: 112px;
+    /* left: -18.01px; */
+     /* top: 5px;   */
+     margin: 0px 0 0 0;
+    transform: rotate(-1);
+}
+.t55{
+    background:white;
+    width: 1263.38px;
+    height: 20px;
+    margin-top:10px;
+    color: white;
+}
